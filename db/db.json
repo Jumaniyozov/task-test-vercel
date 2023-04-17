@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "name": "asdfasdfasdf",
+      "start-time": "07:51",
+      "end-date": "29/04/2023 04:51:00",
+      "description": "asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfqwejrhl qwjerjkhfkasjdbflhjkasgdlqwhberjkhjlfhda gsdjfbqwjlhegf jahsgdfjlhbqwjlhergqjksh dafasdf",
+      "start-date": "09/02/2023 07:51:00",
+      "compareStart": "09/02/2023",
+      "compareEnd": "29/04/2023",
+      "id": 4
+    },
+    {
+      "name": "Send Project",
+      "start-time": "13:01",
+      "end-date": "18/04/2023 12:27:00",
+      "description": "Need to send Project",
+      "start-date": "17/04/2023 13:01:00",
+      "compareStart": "17/04/2023",
+      "compareEnd": "18/04/2023",
+      "id": 5
+    }
+  ],
+  "boards": [
+    {
+      "name": "Todo",
+      "createdAt": "17/04/2023 10:34:46",
+      "type": "board",
+      "id": 1
+    },
+    {
+      "name": "Canceled",
+      "createdAt": "17/04/2023 10:34:50",
+      "type": "board",
+      "id": 2
+    },
+    {
+      "name": "Doing",
+      "createdAt": "17/04/2023 10:34:54",
+      "type": "board",
+      "id": 3
+    },
+    {
+      "name": "Done",
+      "createdAt": "17/04/2023 10:35:21",
+      "type": "board",
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "name": "Learn React Hooks",
+      "tag": "Completed",
+      "boardId": "2",
+      "createdAt": "17/04/2023 10:35:35",
+      "tagColors": "green",
+      "type": "task",
+      "id": 2
+    },
+    {
+      "name": "Learn Next.js",
+      "tag": "Priority",
+      "description": "Learn Next.js for commercial applications\n",
+      "file": "",
+      "boardId": "4",
+      "createdAt": "17/04/2023 12:18:48",
+      "tagColors": "yellow",
+      "type": "task",
+      "id": 3
+    },
+    {
+      "name": "Learn Vue.js",
+      "tag": "Unnecessary",
+      "description": "No need to learn for now...",
+      "file": "",
+      "boardId": "3",
+      "createdAt": "17/04/2023 12:19:26",
+      "tagColors": "indigo",
+      "type": "task",
+      "id": 4
+    },
+    {
+      "name": "Pass the interview ;)",
+      "tag": "Real deal",
+      "description": "",
+      "file": "",
+      "boardId": "1",
+      "createdAt": "17/04/2023 12:19:56",
+      "tagColors": "rose",
+      "type": "task",
+      "id": 5
+    }
+  ]
+}
